@@ -1,0 +1,5 @@
+dataset_640/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
